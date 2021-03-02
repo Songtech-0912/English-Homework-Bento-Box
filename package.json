@@ -5,7 +5,7 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A HTML template featuring sections with full width image backgrounds built with Bootstrap",
+    "description": "A showcase of art produced as part of my AP English Course",
     "keywords": [
         "css",
         "sass",
@@ -29,12 +29,12 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-full-width-pics.git"
     },
     "dependencies": {
-        "bootstrap": "4.3.1",
-        "jquery": "3.4.1"
+        "bootstrap": "4.6.0",
+        "jquery": "3.5.1"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
-        "del": "^4.1.1",
+        "browser-sync": "2.26.14",
+        "del": "^6.0.0",
         "gulp": "4.0.2",
         "merge-stream": "2.0.0"
     }
